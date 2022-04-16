@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BaeJjangE
 - 👀 I’m interested in Big Data Analyst and Big Data Scientist
-- 🌱 I’m currently learning Statistics and Python Library
+- 🌱 I’m currently learning Statistics, Python Library, Machine Learning, Deep Learning, SQL, Coding
 - 📫 How to reach me tmzkdlaoa2@hanmail.net
 
 <!---
